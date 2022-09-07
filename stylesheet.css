@@ -10,5 +10,10 @@ p{
 }
 
 .large{	
-font-family: large;
+font-size: 24px;
+}
+
+#small{	
+	font-size: 16px;
+	color: green;
 }
